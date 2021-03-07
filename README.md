@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+booya
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 The magic is happening
 
@@ -11,3 +14,4 @@ booya
 =======
 booya
 >>>>>>> history
+>>>>>>> master
